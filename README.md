@@ -23,7 +23,7 @@ This project demonstrates how to control four servo motors simultaneously using 
 ### Circuit Design
 
 <p align="center">
-  <img src="circuit.png" width="700">
+  <img src="circuit.png" width="500">
 </p>
 
 ---
