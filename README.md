@@ -17,7 +17,7 @@ This project demonstrates how to control four servo motors simultaneously using 
 ### Simulation
 
 <p align="center">
-  <img src="images/demo.gif" width="700">
+  <img src="demo.gif" width="700">
 </p>
 
 ### Circuit Design
