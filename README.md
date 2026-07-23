@@ -17,7 +17,7 @@ This project demonstrates how to control four servo motors simultaneously using 
 Explore the interactive Tinkercad simulation here:
 
 🔗 **Tinkercad Project:**  
-[https://www.tinkercad.com/things/your-project-link](https://www.tinkercad.com/things/4LYYi6BpFhG-spectacular-kieran-crift?sharecode=8cU_JQ29TdurCpovf34aJoasWQh4FnD8AzXUURSsnZ0)
+![Click Here!](https://www.tinkercad.com/things/4LYYi6BpFhG-spectacular-kieran-crift?sharecode=8cU_JQ29TdurCpovf34aJoasWQh4FnD8AzXUURSsnZ0)
 
 > You can run the simulation, inspect the circuit, and view the Arduino code directly in Tinkercad.
 
